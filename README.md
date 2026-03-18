@@ -10,7 +10,7 @@ It was developed as part of a research study comparing different YOLO versions.
 
 ## Key Results
 YOLOv8 achieved the best performance, with high detection accuracy (mAP@0.5 ≈ 0.924). 
-[View Research Paper](link_here)
+[View Research Paper](brain_tumor_detection_using_different_version_of_YOLO (2) (2).pdf)
 
 ## Tools
 - Python
